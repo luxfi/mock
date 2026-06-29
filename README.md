@@ -1,3 +1,5 @@
+<p align="center"><img src=".github/hero.svg" alt="mock" width="880"></p>
+
 # Lux Mock Library
 
 Centralized mock utilities and helpers for the Lux ecosystem.
