@@ -29,7 +29,7 @@ func Any() Matcher {
 }
 
 // Eq returns a matcher that matches values equal to x
-func Eq(x interface{}) Matcher {
+func Eq(x any) Matcher {
 	return gomock.Eq(x)
 }
 
